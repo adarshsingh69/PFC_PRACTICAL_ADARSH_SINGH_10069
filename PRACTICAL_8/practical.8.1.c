@@ -18,3 +18,9 @@ int main() {
 
     return 0;
 }
+
+
+
+// output
+// Enter a number: 678
+// Sum of digits of 678 = 21
