@@ -23,3 +23,11 @@ int main() {
 
     return 0;
 }
+
+
+
+//output
+//Enter your 4-digit ATM PIN: 2345
+//Incorrect PIN. Attempts left: 2
+//Enter your 4-digit ATM PIN: 1234
+//PIN correct. Access granted.
