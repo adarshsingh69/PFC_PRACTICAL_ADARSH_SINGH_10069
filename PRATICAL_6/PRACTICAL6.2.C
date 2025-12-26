@@ -17,3 +17,8 @@ int main() {
 
     return 0;
 }
+
+
+//output
+//Enter a positive number: 7
+//Sum of even numbers from 1 to 7 = 12
