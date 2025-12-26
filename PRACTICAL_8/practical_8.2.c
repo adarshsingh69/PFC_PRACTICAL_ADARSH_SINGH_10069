@@ -17,3 +17,13 @@ int main() {
 
     return 0;
 }
+
+
+
+// output
+
+
+// Enter two numbers: 7
+// 8
+// Before swap: x = 7, y = 8
+// After swap: x = 8, y = 7
