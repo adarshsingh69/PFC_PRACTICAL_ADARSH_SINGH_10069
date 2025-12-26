@@ -17,3 +17,12 @@ int main() {
 
     return 0;
 }
+
+
+//output
+
+//Enter the starting number (a): 5
+//Enter the ending number (b): 9
+//Numbers from 5 to 9: 5 6 7 8 9
+
+
