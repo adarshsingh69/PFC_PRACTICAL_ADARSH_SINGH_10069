@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {              
+    // Adrash Singh 10069
     int n;
     printf("Enter number of lines: ");
     scanf("%d", &n);
@@ -14,3 +15,13 @@ int main() {
 
     return 0;
 }
+
+
+
+// output
+
+// Enter number of lines: 4
+// A
+// AB
+// ABC
+// ABCD
