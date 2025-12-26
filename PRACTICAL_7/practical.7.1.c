@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {        
+int main() {   
+    // Adarsh Singh 10069;
     int n;
     printf("Enter n: ");
     scanf("%d", &n);
@@ -25,3 +26,15 @@ int main() {
 
     return 0;
 }
+
+
+
+// output
+// Enter n: 4
+//    *
+//   ***
+//  *****
+// *******
+//  *****
+//   ***
+//    *
